@@ -1,6 +1,6 @@
 # gasesnobles
 import streamlit as st
-st.image("imagen 1.jpg")
+st.image("imagen1.jpg")
 # Constante universal de los gases en L·atm/mol·K
 R = 0.0821
 
